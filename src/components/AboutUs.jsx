@@ -1,23 +1,24 @@
+import React from "react";
+
 function AboutUs() {
   return (
     <div className="about-us-container">
-      <h1>About Paradise Nursery</h1>
+      <h1>About e-plantShopping</h1>
 
       <p>
-        Welcome to Paradise Nursery, your trusted destination for beautiful
-        and healthy houseplants.
+        e-plantShopping is an online plant shopping company that provides a wide
+        variety of indoor and outdoor plants for customers who want to bring
+        nature into their homes and workplaces.
       </p>
 
       <p>
-        Our mission is to bring nature into every home by offering a wide
-        variety of high-quality indoor plants that improve well-being and
-        create a relaxing environment.
+        Our mission is to make plant shopping simple, affordable, and enjoyable
+        by offering high-quality plants with a smooth online shopping experience.
       </p>
 
       <p>
-        We provide carefully selected plants, expert care tips, and
-        exceptional customer service to help plant lovers build their
-        perfect indoor garden.
+        We help customers browse plants, choose their favorite products, add
+        items to the shopping cart, and manage their plant purchases easily.
       </p>
     </div>
   );
